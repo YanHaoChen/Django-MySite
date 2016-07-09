@@ -1,9 +1,9 @@
 # Django-MySite
 
-The project is used to practice how to build a web application with Django. It will follow the Django offical tutorial and be finished step by step.
+This project is used to practice how to build a web application with Django. It will follow the Django offical tutorial and be finished step by step.
 
 ## Environment
-Use [Django_Env]() to setup the virtual environment with Django.
+Use [Django_Env](https://github.com/YanHaoChen/Django-MySite/tree/master/Django_env) to setup the virtual environment with Django.
 
 ### Activate
 ```shell
