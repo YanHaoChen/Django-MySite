@@ -42,3 +42,13 @@ $ python manage.py runserver 8080
 // python manage.py <IP>:<port>
 $ python manage.py 0.0.0.0:8080
 ```
+
+## Learning Stage
+
+Part | Status | Link
+--- | --- | ---
+1. Create a Project | Complete | [see](https://docs.djangoproject.com/en/1.9/intro/tutorial01/)
+2. Database and Site of Admin | Complete | [see](https://docs.djangoproject.com/en/1.9/intro/tutorial02/)
+3. Using Template | Complete | [see](https://docs.djangoproject.com/en/1.9/intro/tutorial03/)
+4.   | Not Yet | [see](https://docs.djangoproject.com/en/1.9/intro/tutorial04/)
+5.   | Not Yet | [see](https://docs.djangoproject.com/en/1.9/intro/tutorial05/)
