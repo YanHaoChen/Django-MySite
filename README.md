@@ -51,5 +51,5 @@ Part | Status | Link
 2. Database and Site of Admin | Complete | [see](https://docs.djangoproject.com/en/1.9/intro/tutorial02/)
 3. Using Template | Complete | [see](https://docs.djangoproject.com/en/1.9/intro/tutorial03/)
 4. Write Form and Use Generic Views | Comptete | [see](https://docs.djangoproject.com/en/1.9/intro/tutorial04/)
-5.   | Not Yet | [see](https://docs.djangoproject.com/en/1.9/intro/tutorial05/)
+5. Testing | Complete | [see](https://docs.djangoproject.com/en/1.9/intro/tutorial05/)
 6.   | Not Yet | [see](https://docs.djangoproject.com/en/1.9/intro/tutorial06/)
